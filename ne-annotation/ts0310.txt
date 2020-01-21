@@ -1,0 +1,1 @@
+Nordean tunnuslukusovellus ei kaipaa sim korttia joten wifillä se toimii ilman sim korttiakin

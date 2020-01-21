@@ -1,0 +1,1 @@
+Tarkoittanee tuota Nordean iPhone / Android sovellusta . --- No Android on linux distro , että sikäli toimii . --- Tietoturvamielessä se tosin on järjenköyhää pitää sovellusta jossa on avainluvut tietokoneella tai älypuhelimella .

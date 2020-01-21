@@ -1,0 +1,1 @@
+OP , Sampo ja S-pankki toimivat niin , että asiakastunnuksen ja avainluvun väliin tulee asiakkaan itsensä määrittämä salasana . 

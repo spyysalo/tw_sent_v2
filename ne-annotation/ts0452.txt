@@ -1,0 +1,1 @@
+OP verkkopankki ei käytä Javaa . 

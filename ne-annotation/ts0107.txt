@@ -1,0 +1,1 @@
+Nordean E-maksusivulle mennessäni Firefox ilmoitti , että sivu ei ole aito , vaan yrittää tekeytyä Nordean sivuksi , eikä pystynyt varmentamaan sivun turvallisuutta .

@@ -1,0 +1,4 @@
+T1	ORG 0 14	@NordeaStartup
+T2	ORG 16 25	Nordea_FI
+T3	ORG 39 52	@DanskeBankFI
+T4	ORG 54 69	HandelsbankenFi
