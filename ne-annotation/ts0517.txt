@@ -1,1 +1,0 @@
-Nuo maksut eivät lähde yhtikäs mihinkään ilman OP : n tekstiviestivahvistusta sekä tunnuslukulistalta vaadittavaa oikeaa lukua , joka generoidaan OP : n palvelinten kautta . 
